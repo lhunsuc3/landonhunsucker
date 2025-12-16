@@ -21,4 +21,4 @@ Developed a RESTful API using FastAPI, SQLAlchemy, and SQLite to manage users, t
 Conducted exploratory data analysis and built visualizations with a recommendation system to uncover trends in movie performance and attributes. Focused on clear, effective data storytelling through well-designed charts and insights. 
 
 ## Skills
-Python, Pandas, SQL, Matplotlib, Scikit-learn, FastAPI, Git, Linux basics
+Python, Pandas, SQL, Matplotlib, Scikit-learn, FastAPI, Git, Linux basics, D3JS, Java, Tableau
