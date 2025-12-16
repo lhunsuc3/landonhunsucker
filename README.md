@@ -18,7 +18,7 @@ Developed an API using FastAPI, Python, and SQL to manage users, trips, and trip
 
 ### Movie Analysis & Information Visualization (Final Project)
 [View Repo](https://github.com/lhunsuc3/Final_Project_4121_Information_Visualization_Movie_Analysis.git) 
-Conducted exploratory data analysis and built visualizations with a recommendation system to uncover trends in movie performance and attributes. Focused on clear, effective data storytelling through well-designed charts and insights. 
+Conducted exploratory data analysis and built visualizations with a recommendation system to uncover trends in movie performance and attributes using D3JS and Python. Focused on clear, effective data storytelling through well-designed charts and insights. 
 
 ## Skills
 Python, Pandas, SQL, Matplotlib, Scikit-learn, FastAPI, Git, Linux basics, D3JS, Java, Tableau
