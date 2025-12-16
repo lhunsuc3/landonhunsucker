@@ -3,7 +3,6 @@ Hi, I'm Landon Hunsucker
 Senior Data Science major at UNC Charlotte | 📊 Data | 💻 Cybersecurity | 🇯🇵 Japanese Minor
 
 ## Featured Projects
-
 ### Covid-19 in Japan Dashboard
 [View Repo](https://drive.google.com/file/d/12janaTmg7zUbXVvRiz8YuLRJZ9Tb64BL/view?usp=sharing)  
 Analyzed case trends and testing data in Japan using Pandas and Matplotlib.
