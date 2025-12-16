@@ -16,8 +16,8 @@ Linear & polynomial regression to predict gas prices across three countries.
 [View Repo](https://github.com/lhunsuc3/3155-travel-management-api-final)  
 Developed a RESTful API using FastAPI, SQLAlchemy, and SQLite to manage users, trips, and trip participation. Includes full CRUD functionality and modular code structure. Designed for future integration of a trip planner feature to suggest cost-effective travel options.
 
-Movie Analysis & Information Visualization (Final Project)
-https://github.com/lhunsuc3/Final_Project_4121_Information_Visualization_Movie_Analysis.git
+### Movie Analysis & Information Visualization (Final Project)
+[View Repo](https://github.com/lhunsuc3/Final_Project_4121_Information_Visualization_Movie_Analysis.git) 
 Conducted exploratory data analysis and built visualizations with a recommendation system to uncover trends in movie performance and attributes. Focused on clear, effective data storytelling through well-designed charts and insights. 
 
 ## Skills
