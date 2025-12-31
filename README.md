@@ -1,6 +1,6 @@
 Hi, I'm Landon Hunsucker
 
-Senior Data Science major at UNC Charlotte | 📊 Data | 💻 Cybersecurity | 🇯🇵 Japanese Minor
+Senior Data Science major at UNC Charlotte | Data | Cybersecurity | Japanese Minor
 
 ## Featured Projects
 
